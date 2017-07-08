@@ -1,0 +1,19 @@
+[
+    {
+        "outputFile": "E:\\dev\\workspace\\aswork\\GooglePlay\\library-PagerSlidingTabStrip\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "E:\\dev\\workspace\\aswork\\GooglePlay\\library-PagerSlidingTabStrip\\res\\values\\colors.xml"
+                }
+            }
+        ]
+    }
+]
